@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a3022f6e8d45e84c9d8494760a0f3f1, type: 3}
+  m_Name: MediumLevelDataSO
+  m_EditorClassIdentifier: 
+  _numericData:
+  - _sprite: {fileID: -1319802200, guid: ccfa7bb23f162754d9788e1788676be5, type: 3}
+    _number: 1
+  - _sprite: {fileID: 1348190251, guid: ccfa7bb23f162754d9788e1788676be5, type: 3}
+    _number: 2
+  - _sprite: {fileID: 563630303, guid: ccfa7bb23f162754d9788e1788676be5, type: 3}
+    _number: 3
+  - _sprite: {fileID: -1687132565, guid: ccfa7bb23f162754d9788e1788676be5, type: 3}
+    _number: 4
+  - _sprite: {fileID: -412329388, guid: ccfa7bb23f162754d9788e1788676be5, type: 3}
+    _number: 5
+  - _sprite: {fileID: -1902454594, guid: ccfa7bb23f162754d9788e1788676be5, type: 3}
+    _number: 6
+  - _sprite: {fileID: -1114352079, guid: ccfa7bb23f162754d9788e1788676be5, type: 3}
+    _number: 7
+  - _sprite: {fileID: 2019364375, guid: ccfa7bb23f162754d9788e1788676be5, type: 3}
+    _number: 8
+  - _sprite: {fileID: 21300000, guid: 0c67af05bfb8e9345befad04ce0c9898, type: 3}
+    _number: 9
+  - _sprite: {fileID: 21300000, guid: 6b2ad605b509804458378f7a4f5ee587, type: 3}
+    _number: 10
+  _letterCube:
+  - _sprite: {fileID: -196166323, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 65
+  - _sprite: {fileID: -161503366, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 66
+  - _sprite: {fileID: -1678271841, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 67
+  - _sprite: {fileID: 1856880847, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 68
+  - _sprite: {fileID: -271488592, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 69
+  - _sprite: {fileID: 466090316, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 70
+  - _sprite: {fileID: -1304983508, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 71
+  - _sprite: {fileID: -1846394446, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 72
+  - _sprite: {fileID: 1020630529, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 73
+  - _sprite: {fileID: 422205078, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 74
+  - _sprite: {fileID: -228513508, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 75
+  - _sprite: {fileID: 673755907, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 76
+  - _sprite: {fileID: -1187711532, guid: ec1ce4da2e3816941b360fb44f109ef2, type: 3}
+    _letter: 77
+  - _sprite: {fileID: 727318392, guid: fdb8a1865a6740844915c418aea6da19, type: 3}
+    _letter: 78
+  - _sprite: {fileID: 1184748213, guid: fdb8a1865a6740844915c418aea6da19, type: 3}
+    _letter: 79
+  - _sprite: {fileID: 1508970655, guid: fdb8a1865a6740844915c418aea6da19, type: 3}
+    _letter: 80
+  - _sprite: {fileID: -796030035, guid: fdb8a1865a6740844915c418aea6da19, type: 3}
+    _letter: 81
+  - _sprite: {fileID: -1095198233, guid: fdb8a1865a6740844915c418aea6da19, type: 3}
+    _letter: 82
+  - _sprite: {fileID: 1799837085, guid: fdb8a1865a6740844915c418aea6da19, type: 3}
+    _letter: 83
+  - _sprite: {fileID: -1859163147, guid: fdb8a1865a6740844915c418aea6da19, type: 3}
+    _letter: 84
+  - _sprite: {fileID: -1801978415, guid: fdb8a1865a6740844915c418aea6da19, type: 3}
+    _letter: 85
+  - _sprite: {fileID: -1478480109, guid: fdb8a1865a6740844915c418aea6da19, type: 3}
+    _letter: 86
+  - _sprite: {fileID: -190639867, guid: fdb8a1865a6740844915c418aea6da19, type: 3}
+    _letter: 87
+  - _sprite: {fileID: -1655066989, guid: fdb8a1865a6740844915c418aea6da19, type: 3}
+    _letter: 88
+  - _sprite: {fileID: 692825458, guid: f952c18156573ab4ca50970c4027db33, type: 3}
+    _letter: 89
+  - _sprite: {fileID: 468542005, guid: f952c18156573ab4ca50970c4027db33, type: 3}
+    _letter: 90
